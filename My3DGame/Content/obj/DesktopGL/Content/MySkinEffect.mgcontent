@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/JEI/documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/MySkinEffect.fx</SourceFile>
+  <SourceTime>2020-03-09T00:44:28.1638508-06:00</SourceTime>
+  <DestFile>C:/Users/JEI/documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/bin/DesktopGL/Content/MySkinEffect.xnb</DestFile>
+  <DestTime>2020-03-09T12:48:58.188194-06:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>HiDef</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/cloud_layer.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/default_texture.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/head.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/headN.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/headS.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/jacket.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/jacketN.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/jacketS.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/pants.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/pantsN.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/pantsS.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/TheDude.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/upBodyC.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/upBodyN.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/dude/upBodyS.tga</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/Font.spritefont</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/ForestArea1CompleteMap.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/ForestShadows.ogg</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/Kid_Body2.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/Kid_Eye.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/Kid_Eye_Normals.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/kid_face_2_1.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/Kid_Hair.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/kid_idle.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/kid_run.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/kid/kid_walk.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/landscape.obj</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/MySkinFX.fx</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/sky_model.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/skydome1.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/stuffy/stuffy_idle.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/stuffy/stuffy_run.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/stuffy/stuffy_walk.FBX</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/stuffy/StuffyTexture.png</File>
+    <File>C:/Users/JEI/Documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/test_image.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

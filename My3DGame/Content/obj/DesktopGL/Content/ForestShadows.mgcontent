@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/JEI/documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/ForestShadows.ogg</SourceFile>
+  <SourceTime>2016-06-21T09:29:24.980214-06:00</SourceTime>
+  <DestFile>C:/Users/JEI/documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/bin/DesktopGL/Content/ForestShadows.xnb</DestFile>
+  <DestTime>2020-09-10T21:20:53.7053211-06:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/JEI/documents/visual studio 2017/Projects/My3DGame/My3DGame/Content/bin/DesktopGL/Content/ForestShadows.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
